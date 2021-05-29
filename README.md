@@ -1,4 +1,4 @@
-# Night Owl 4D Theme
+# 2077 VSCode Theme
 
 Based entirely on [2077 VSCode Theme](https://github.com/endormi/vscode-2077-theme).
 
