@@ -11,7 +11,7 @@ Take JSON files and put them into 4D editor themes folder.
 - on macOS `$HOME/Library/Application Support/4D/4D Editor Themes`
 - on Window `<diskName>:\Users\userName>\AppData\Roaming\4D\4D Editor Themes`
 
-Then select it in 4D v19+ [preferences](https://developer.4d.com/docs/en/Preferences/methods.html#themes).
+Then select it in 4D v19+ [preferences](https://developer.4d.com/docs/Preferences/methods/#themes).
 
 ### On macOS
 
